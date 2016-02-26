@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  01-网易彩票
+//  02-网易彩票
 //
 //  Created by user on 16/2/26.
 //  Copyright © 2016年 user. All rights reserved.
@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
+                                                                                                                                                                              
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
